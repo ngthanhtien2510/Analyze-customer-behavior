@@ -1,2 +1,7 @@
-# Project_visualization
-Phân tích doanh số, số lượng đơn hàng theo giờ, ngày, tháng với hơn 1.000.000 record
+# Analyze-customer-behavior
+1. Phân tích tổng quan về doanh thu theo khu vực.
+
+2. Phân tích các hành của khách hàng:
+2.1. Khách hàng thường mua vào tháng nào?
+2.2. Khách hàng thường mua vào giờ nào ?
+2.3. Khách hàng thường mua sản phẩm nào cùng nhau ?
