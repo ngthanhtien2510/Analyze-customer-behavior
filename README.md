@@ -1,4 +1,4 @@
-# Analyze-customer-behavior
+# Customer-behavior-analysis
 1. Phân tích tổng quan về doanh thu theo khu vực.
 
 2. Phân tích các hành vi của khách hàng:
